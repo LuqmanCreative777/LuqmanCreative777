@@ -41,13 +41,6 @@
 | 🔁 **ClipRelay** | Social publishing automation — detects new videos and auto-reposts with AI-rewritten titles & tags |
 | ✈️ **PostPilot** | AI-powered social post automation *(in progress)* |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuqmanCreative777&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuqmanCreative777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 🤝 Let's Work Together
 
 Need an AI agent or want to automate a repetitive process in your business? Let's talk.
